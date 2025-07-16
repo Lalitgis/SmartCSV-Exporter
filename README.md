@@ -1,6 +1,7 @@
 # SmartCSV Exporter — QGIS Plugin
 
-![SmartCSV Exporter](icon.png)
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/c74c4eeb-5edd-47c1-a4b1-2b6c3ffed6d7" />
+
 SmartCSV Exporter is a powerful QGIS plugin designed for effortless CSV exports with flexibility and control.
 
 ---
@@ -35,7 +36,8 @@ Select a layer or enable batch mode, pick the fields you want, filter rows if ne
 
 ## Screenshots
 
-*(Add screenshots here if possible)*
+* <img width="747" height="828" alt="smart" src="https://github.com/user-attachments/assets/fcdfbea0-84e7-434a-88cb-cd9aa4c02a19" />
+*
 
 ---
 
@@ -53,4 +55,4 @@ MIT License © Lalit BC
 
 ## Contact
 
-If you have questions or feature requests, open an issue or reach out at your.email@example.com
+If you have questions or feature requests, open an issue or reach out at lalitiaas@gmail.com
